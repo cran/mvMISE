@@ -1,0 +1,11 @@
+350e781076ab13f59d996c189ebee7a5 *DESCRIPTION
+50658374063191e8b37715a761eebb95 *NAMESPACE
+6b9117ef182c4140e9cba44ab56106ad *R/mvMISE_e_perm.r
+56194edd918092485f2dc067453266a8 *R/mvmise_b.r
+0076fb2a49f41f39f8aec3378b1cef97 *R/mvmise_e.r
+85bca11f1b963cfa4c35327f59b78f84 *R/sim_dat.r
+a80c13dd5c851566e4a5ee99be0acece *data/sim_dat.rda
+0ef7010075aa535d00db624c071afd88 *man/mvMISE_b.Rd
+d9be8b9b7f2496ebbd6adc98e13172df *man/mvMISE_e.Rd
+ce5d28a91231368c170fa65f1b7e5bd3 *man/mvMISE_e_perm.Rd
+2bab39c04336f09503fda67ce3b1627e *man/sim_dat.Rd
